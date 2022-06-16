@@ -3,6 +3,6 @@
         "ident" : "pd2_sample_autoupdate",
         "hash" : "%HASH%",
         "patchnotes_url" : "https://example.com/other-patchnotes.html",
-        "download_url" : "https://github.com/steam-test1/superblt-demo/releases/download/refs%2Fheads%2Fmain/pd2autoupdatexample.zip"
+        "download_url" : "https://github.com/steam-test1/superblt-demo/releases/download/refs%2Fheads%2Ftest/pd2autoupdatexample.zip"
     }
 ]

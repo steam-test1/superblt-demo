@@ -10,7 +10,7 @@
 		{
 			"identifier" : "pd2_sample_autoupdate",
 			"host" : {
-				"meta" : "https://github.com/steam-test1/superblt-demo/releases/download/refs%2Fheads%2Fmain/meta.json"
+				"meta" : "https://github.com/steam-test1/superblt-demo/releases/download/refs%2Fheads%2Ftest/meta.json"
 			}
 		}
 	]
