@@ -4,5 +4,6 @@
         "hash" : "%HASH%",
         "patchnotes_url" : "https://example.com/other-patchnotes.html",
         "download_url" : "https://github.com/steam-test1/superblt-demo/releases/download/refs%2Fheads%2Fmaster/pd2autoupdatexample.zip",
+        "version": "1.1",
     }
 ]
