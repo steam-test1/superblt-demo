@@ -1,7 +1,7 @@
 {
 	"name" : "Example Mod",
 	"description" : "An example mod that only exists to showcase Github auto-updates with SuperBLT.",
-	"author" : "Rokk",
+	"author" : "",
 	"contact" : "",
 	"version" : "1.2",
 	"blt_version" : 2,
